@@ -1,4 +1,4 @@
-PIDS: Personal Intrusion Detection System
+PIDS: Personal IDS
 ===============================
 
 Description
